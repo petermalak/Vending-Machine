@@ -1,0 +1,37 @@
+#include <iostream>
+#include "item.h"
+
+#ifndef VENDING_MACHINE_H
+#define VENDING_MACHINE_H
+
+
+class vending_machine
+{
+    public:
+        /** Default constructor */
+        vending_machine();
+        display();
+        choose(int);
+        bool isExiting(); //Exits if user enters 0
+        setInputed(double);
+        bool isAvailable();
+        bool isFill(); //checks if there are items in stock
+
+
+        /** Default destructor */
+        ~vending_machine();
+
+    protected:
+        item products[10];
+        int index;
+        int half_pound;
+        int pound;
+        int five;
+        int ten;
+        int twenty;
+
+
+    private:
+};
+
+#endif // VENDING_MACHINE_H

@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1542474060 source:c:\users\dell\desktop\vending\item.cpp
+	"item.h"
+
+1542474398 c:\users\dell\desktop\vending\item.h
+	<iostream>
+	<iomanip>
+
+1542477424 source:c:\users\dell\desktop\vending\main.cpp
+	<iostream>
+	<stdlib.h>
+	"vending_machine.h"
+	"money.h"
+	"run.h"
+
+1542473526 source:c:\users\dell\desktop\vending\vending_machine.cpp
+	"vending_machine.h"
+
+1542474339 c:\users\dell\desktop\vending\vending_machine.h
+	<iostream>
+	"item.h"
+
+1542474753 source:c:\users\dell\desktop\vending\money.cpp
+	"money.h"
+
+1542470091 c:\users\dell\desktop\vending\money.h
+	<iostream>
+	"vending_machine.h"
+
+1542476085 c:\users\dell\desktop\vending\run.h
+	<iostream>
+	"money.h"
+
+1542476399 source:c:\users\dell\desktop\vending\run.cpp
+	"run.h"
+
+1542474060 source:c:\users\dell\desktop\fci-cs213-a3-2018-ta. layla mustafa -g3 ,4 -20170093-20170079\vending\item.cpp
+	"item.h"
+
+1542474398 c:\users\dell\desktop\fci-cs213-a3-2018-ta. layla mustafa -g3 ,4 -20170093-20170079\vending\item.h
+	<iostream>
+	<iomanip>
+
+1542478550 source:c:\users\dell\desktop\fci-cs213-a3-2018-ta. layla mustafa -g3 ,4 -20170093-20170079\vending\money.cpp
+	"money.h"
+
+1542470091 c:\users\dell\desktop\fci-cs213-a3-2018-ta. layla mustafa -g3 ,4 -20170093-20170079\vending\money.h
+	<iostream>
+	"vending_machine.h"
+
+1542479846 c:\users\dell\desktop\fci-cs213-a3-2018-ta. layla mustafa -g3 ,4 -20170093-20170079\vending\vending_machine.h
+	<iostream>
+	"item.h"
+
+1542480832 source:c:\users\dell\desktop\fci-cs213-a3-2018-ta. layla mustafa -g3 ,4 -20170093-20170079\vending\run.cpp
+	"run.h"
+
+1542478731 c:\users\dell\desktop\fci-cs213-a3-2018-ta. layla mustafa -g3 ,4 -20170093-20170079\vending\run.h
+	<iostream>
+	"money.h"
+
+1542478697 source:c:\users\dell\desktop\fci-cs213-a3-2018-ta. layla mustafa -g3 ,4 -20170093-20170079\vending\main.cpp
+	<iostream>
+	<stdlib.h>
+	"run.h"
+
+1542480179 source:c:\users\dell\desktop\fci-cs213-a3-2018-ta. layla mustafa -g3 ,4 -20170093-20170079\vending\vending_machine.cpp
+	"vending_machine.h"
+
